@@ -1,0 +1,66 @@
+---
+title: "Annotating Rhentorical Moves for Dialectical "
+bibliography: bib.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/the-plant-cell.csl
+output:
+  html_document: default
+  html_notebook: default
+  pdf_document: default
+Author: Craig W. Whippo
+---
+# Introduction
+
+"Grabowsky"
+
+# Open Annotation
+
+
+# How to Annotate
+
+## `Introduction` Section
+
+The introduction section provides reader with the knowledge needed to understand the situational context of the research, the justifies the reasearch, and ....
+
+### -`Background knowledge`
+
+Generate an outline of the topics you would provide in a presentation intented to allow 
+
+### -`Motive`
+The motive provides the intrensic reasons why the research is needed.  It establishes the importance of the topic or identifies a problem, controversy, or gaps in knowledge.
+
+### -`Objective`
+
+### -`General Approach`
+A one sentence statement about the research design, methodology, and sourses of evidence.
+
+## `Methods` Section
+
+### `Procedures`
+
+### `Analysis`
+
+## `Results` Section
+
+###  -`Objectives`
+
+###  -`Approach`
+
+###  -`Evidence Organization`
+
+###  -`Literal Interpretations`
+
+###  -`Authors' Interpretations`
+
+###  -`Finding`
+
+## `Discussion` Section
+
+### -`Main conclusions`
+
+### -`Implications`
+
+### -`Support`
+
+###  -`Counterarguement`
+
+###  -`Refutation`
