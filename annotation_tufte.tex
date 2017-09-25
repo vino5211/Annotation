@@ -1,0 +1,138 @@
+\documentclass[]{tufte-handout}
+
+% ams
+\usepackage{amssymb,amsmath}
+
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \makeatletter
+  \@ifpackageloaded{fontspec}{}{\usepackage{fontspec}}
+  \makeatother
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+  \makeatletter
+  \@ifpackageloaded{soul}{
+     \renewcommand\allcapsspacing[1]{{\addfontfeature{LetterSpace=15}#1}}
+     \renewcommand\smallcapsspacing[1]{{\addfontfeature{LetterSpace=10}#1}}
+   }{}
+  \makeatother
+\fi
+
+% graphix
+\usepackage{graphicx}
+\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+
+% booktabs
+\usepackage{booktabs}
+
+% url
+\usepackage{url}
+
+% hyperref
+\usepackage{hyperref}
+
+% units.
+\usepackage{units}
+
+
+\setcounter{secnumdepth}{-1}
+
+% citations
+\usepackage{natbib}
+\bibliographystyle{plainnat}
+
+% pandoc syntax highlighting
+
+% longtable
+
+% multiplecol
+\usepackage{multicol}
+
+% strikeout
+\usepackage[normalem]{ulem}
+
+% morefloats
+\usepackage{morefloats}
+
+
+% tightlist macro required by pandoc >= 1.14
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% title / author / date
+\title{Analyzing a Scientific Paper}
+\author{Craig W. Whippo}
+\date{2017-09-15}
+
+
+\begin{document}
+
+\maketitle
+
+
+
+
+\section{1. Introduction Section}\label{introduction-section}
+
+The introdution section of a well written scientific text needs to
+accomplish three things. First, it needs to establish the general scope
+of the field and review what is known. This background knowledge gives
+readers enough contextual information to understand the research
+article. Second, the introduction section should explicity state reasons
+why additional research is needed.
+
+\subsection{A. Background knowledge}\label{a.-background-knowledge}
+
+\subsection{B. Motive}\label{b.-motive}
+
+Why is this research important? Why is additional information needed?
+
+\subsection{C. Objective}\label{c.-objective}
+
+What did the scientists want to learn by doing this study?
+
+\subsection{D. General Approach}\label{d.-general-approach}
+
+\section{2. Results Section}\label{results-section}
+
+\subsection{A. Objectives}\label{a.-objectives}
+
+\subsection{B. Approach}\label{b.-approach}
+
+\subsection{C. Organization of the
+Inscriptions}\label{c.-organization-of-the-inscriptions}
+
+\subsection{D. Interpretation of the
+Inscriptions}\label{d.-interpretation-of-the-inscriptions}
+
+\subsubsection{i. Literal
+Interpretations}\label{i.-literal-interpretations}
+
+\subsubsection{ii. Authors'
+Interpretations}\label{ii.-authors-interpretations}
+
+\subsubsection{iii. Statement of
+Finding}\label{iii.-statement-of-finding}
+
+\section{3. Discussion Section}\label{discussion-section}
+
+\subsection{A. Main conclusions}\label{a.-main-conclusions}
+
+Was the study able to
+
+\subsection{B. Implications}\label{b.-implications}
+
+\subsection{C. Support}\label{c.-support}
+
+\subsection{D. Counterarguement}\label{d.-counterarguement}
+
+\subsection{E. Refutation}\label{e.-refutation}
+
+\bibliography{bib}
+
+
+
+\end{document}

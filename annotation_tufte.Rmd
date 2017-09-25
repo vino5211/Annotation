@@ -1,0 +1,63 @@
+---
+title: "Analyzing a Scientific Paper"
+author: "Craig W. Whippo"
+date: '`r Sys.Date()`'
+output:
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_html: default
+link-citations: yes
+subtitle: Dickinson State University
+bibliography: bib.bib
+---
+
+
+# 1. Introduction Section
+
+The introdution section of a well written scientific text needs to accomplish three things.  First, it needs to establish the general scope of the field and review what is known.  This background knowledge gives readers enough contextual information to understand the research article.  Second, the introduction section should explicity state reasons why additional research is needed.   
+
+## A. Background knowledge
+
+## B. Motive
+
+Why is this research important?  Why is additional information needed?
+
+## C. Objective
+
+What did the scientists want to learn by doing this study?
+
+## D. General Approach
+
+# 2. Results Section
+
+##  A. Objectives
+
+##  B. Approach
+
+##  C. Organization of the Inscriptions
+
+##  D. Interpretation of the Inscriptions
+
+### i. Literal Interpretations
+
+### ii. Authors' Interpretations
+
+### iii. Statement of Finding
+
+# 3. Discussion Section
+
+## A. Main conclusions
+
+Was the study able to 
+
+## B. Implications
+
+## C. Support
+
+## D. Counterarguement
+
+## E. Refutation

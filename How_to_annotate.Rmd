@@ -1,5 +1,5 @@
 ---
-title: "Annotating Rhentorical Moves for Dialectical "
+title: "Annotating Science"
 bibliography: bib.bib
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/the-plant-cell.csl
 output:
@@ -21,12 +21,12 @@ Author: Craig W. Whippo
 
 The introduction section provides reader with the knowledge needed to understand the situational context of the research, the justifies the reasearch, and ....
 
-### -`Background knowledge`
+### **Background** [*Tags:* `Background`, `Introduction`]
 
-Generate an outline of the topics you would provide in a presentation intented to allow 
+Generate an outline of the topics you would provide in a presentation explaining the background knowledge needed to understand the research.  This list should be created as an unachored note instead of being anchored to a specific highlighted text.  Ideally, items in the list can be hyperlinked to other sources of information such as wikipedia entries, releated review articles, or videos. Explainations or commentary on items in the list should be avoided because annotations are not the proper vehicle for presentations. If the list needs to be explored more extensively, then a formal slide presentation covering the background knowledge can be embeeded in this section as a [prezi](https://prezi.com/start/) presentation, infographic, or short video.  
 
 ### -`Motive`
-The motive provides the intrensic reasons why the research is needed.  It establishes the importance of the topic or identifies a problem, controversy, or gaps in knowledge.
+The motive provides identifies the reasons why the research is needed.  Motives accomplish this goal by establishing the importance of the topic, or by identifing a problem, controversy, or knowledge gap.  Annotations about the motive should focus on the reasons why more research is needed.
 
 ### -`Objective`
 
