@@ -1,0 +1,17 @@
+---
+title: "Hypothes.is Webinar"
+author: "Dickinson State University"
+date: "October 11, 2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Why should 
+
+# How do I use hypothes.is
+
+# 

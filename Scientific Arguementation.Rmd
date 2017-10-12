@@ -1,0 +1,64 @@
+---
+title: "Annotating Rhetorical Moves in Research Articles with Hypothes.is"
+author: "Craig W. Whippo"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: html_document
+---
+
+# Introduction
+  
+# Scientitific Annotation Framework
+
+## Introduction Section
+
+### Background [Tags: `Background`, `Introduction`]
+Background information is required to understand the context of a research article. Generate an outline of the topics you would provide in a presentation explaining the background knowledge needed to understand the research. This list should be created as an unachored note instead of being anchored to a specific highlighted text. Items in the list can be hyper-linked to other sources of information such as Wikipedia entries, related review articles, or videos. Explanations or commentary on items in the list should be avoided. If the list needs to be explored more extensively, then a formal slide presentation covering the background knowledge can be embedded in this section as a prezi presentation, infographic, or short video.   
+
+### Motive [Tags: `Motive`, `Introduction`]
+The motive provides describes the reasons why the additional research is needed. In a research article, the motive justifies the research. Motives accomplish this goal by establishing the importance of the topic, or by identifying a problem, controversy, or knowledge gap. Annotations about the motive should evaluate if the rationale for the work is developed in the  form of a logical argument.
+
+### Objective [Tags: `Objective`, `Introduction`]
+Statement about what the authors wanted to know. The objective may be formulated as a research question, research aim, or hypothesis.  Annotations should evaluate if the objectives are reasonable, specific, testible, and parsimonious.  Sometimes it is very difficult to identify the objective of a research paper.  If it is difficult to identify an objective, then our collective group annotations may coalesce around a consensus.
+
+### General Approach [Tags:`General Approach`, `Introduction`]
+Statement describing the strategy and general methods.  The general approach should be limited to one sentence.  Avoid experimental details.  Commentary about the validity of the approach could be included in the annotation.
+
+## Results Section [Tags:`Inscription`, `Results`]
+The results section of a paper is the heart of a research article. Annotations within the result section should foccus on the inscriptions.  These extratextual elements present the evidence in the form of figures, tables, or equations. As science progresses, the conclusions and background information needed to read and understand a research article will change.  Therefore, it is important to understand the conclusions only in the context of the supporting evidence. We may discover additional information that changes the conclusions of an article, but the results are permenant and re-interpetable in light of new information.  Annotating the results section is a repetitive process of annotating each inscription.  Each annotation is directly anchored to an inscription and contains the elements described below.
+
+**Statement of Finding:**  A one sentence summary of the important conclusion of the inscription.
+
+**Specific Question:**  What was the specific gap in knowledge?
+
+**Specific Approach:** Describe the logical of the study design.  Evalulate how well this approach answers the specific question.
+
+**Organization:** Identify what is being measured and the controls. Describe the notations and layout of the inscription.  
+
+**Literal Intepretation:** What does the evidence unabigiously mean. Annotations about the literal interpretation will only be about the research outcomes and often involves making comparisions between experimental and control groups.
+
+**Authors' Interpretation:** What did the authors' say about what the evidence demonstrates.  Often times, authors make claims that the evidence supports or refutes a hypothesis or model.  
+
+**Evaluation:** Evaluate how well the results answer the sepecific quesiton.  Compare the literal interpretation with the authors' intepretation.  Guage the validity and reliablity of the data.  
+
+## Discussion Section
+
+### Main conclusion [Tags: `Main Conclusions`, `Discussion`]
+What are the main outcomes of the research.  Evaluate how well the outcomes are related to the objective presented in the Introduciton section.  Do the main conclusions answer the research questions? Are the hypotheseses supported by the evidence.
+
+### Support [Tags: `Support`, `Discussion`]
+The main conclusions are supported by evidence and logic.  Support for the main conculsions comes from the result section and prior literature.  
+
+### Implication [Tags: `Implications`, `Discussion`]
+Why are the results important or interesting? Annotations about implications can focus on follow-up questions, consequences, or recommendations.
+
+### Counterargument [Tags: `Counterargument`, `Discussion`]
+Statements that weaken or discredit the main conclusion. For example, possible methodological flaws, anomalous data, results that contradict previous studies, or alternative explanations. Counterarguments are sometimes presented as limitations.
+
+### Refutation [Tags: `Refutation`, `Discussion`]
+Statements that weaken or refute a counterargument
+
+# Evaluating Annotations
+
+## Annotation Structure
+
+## Annotation Content
